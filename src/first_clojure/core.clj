@@ -1,6 +1,7 @@
 (ns first-clojure.core
   (:gen-class)
-  (:require [first-clojure.p1 :as p1]))
+  (:require [first-clojure.p1 :as p1]
+            [first-clojure.p2 :as p2]))
 
 (defn -main
   "Euler 1"
